@@ -4,7 +4,6 @@ __pycache__/
 
 # ipynb 
 *.ipynb_checkpoints
-*.ipynb
 
 # Not adding models
 *.h5
