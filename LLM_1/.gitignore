@@ -4,3 +4,7 @@ Pipfile
 index.html
 where.py
 .vscode
+information.py
+.idea
+duckduckgo.py
+searxng.py
