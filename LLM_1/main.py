@@ -1,4 +1,4 @@
-import os,sys
+import os, sys
 from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
 from langchain.prompts.prompt import PromptTemplate
@@ -6,8 +6,9 @@ from agents.scrape_linkedin import linkedin_json
 from agents.linkedin_lookup_agent import lookup
 
 import warnings
+
 warnings.filterwarnings("ignore")
- 
+
 load_dotenv()
 
 

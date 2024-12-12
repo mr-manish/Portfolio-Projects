@@ -1,7 +1,4 @@
-Pipfile
 *.env
-*.lock
-index.html
 where.py
 .vscode
 information.py

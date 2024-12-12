@@ -1,6 +1,7 @@
 import gradio as gr
 from main import main_func
 
+
 def greet(name):
     return main_func(name).content
 
